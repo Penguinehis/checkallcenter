@@ -75,10 +75,8 @@ curl --request GET \
 Only work with SSHPLUS Variants exemple the CrashVPN script with is free in the site https://worldofdragon.net
 
 And is gonna return this exemple: 
-------------------------------
-👤user 1/2 ⏳01:41:45
-------------------------------
 
+👤user 1/2 ⏳01:41:45
 
 /checkUser2/
 
