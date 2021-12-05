@@ -79,4 +79,15 @@ And is gonna return this exemple:
 👤user 1/2 ⏳01:41:45
 ------------------------------
 
+
+/checkUser2/
+
+http://ipvps:6888/checkUser2/USERYOUWANT
+
+This gonna return in the browser this: Exemple 
+
+👤User: sisudatu
+⏳Validity: 01/02/2022
+⏳Time Left: 27
+
 And its it very simple
