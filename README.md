@@ -84,8 +84,8 @@ http://ipvps:6888/checkUser2/USERYOUWANT
 
 This gonna return in the browser this: Exemple 
 
-👤User: sisudatu
-⏳Validity: 01/02/2022
-⏳Time Left: 27
+👤User: sisudatu<br>
+⏳Validity: 01/02/2022<br>
+⏳Time Left: 27<br>
 
 And its it very simple
