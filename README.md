@@ -28,6 +28,8 @@ Seven start a screen
 screen -S api
 
 Eight start the program using the command node index.js, and insert your TOKEN , if the token is OK you gonna view your console simple go black and the api is ONLINE 
+After that, press ctrl + a + d
+
 For check if is online use the command lsof -i :6888
 
 If shows Exemple "node    31869 root   22u  IPv6 2272619      0t0  TCP *:6888 (LISTEN)"
